@@ -190,4 +190,4 @@ func main() {
 
 ---
 
-**Good luck!** 🚀
+**Good luck!** 
